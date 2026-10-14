@@ -30,4 +30,8 @@ Versión final del proyecto del módulo Desarrollo de Front-end. La aplicación 
 Ejecutar `npm run build`. El resultado queda en `dist/nexo-diario`.
 
 ## Publicación
-El código queda preparado para GitHub y para despliegue en Netlify, Vercel o GitHub Pages. Para la entrega académica final se deben reemplazar en el informe los campos de URL del repositorio, URL de despliegue y URL del video después de publicarlos desde la cuenta del estudiante.
+El workflow `.github/workflows/pages.yml` compila y publica automáticamente en GitHub Pages con cada push a `master`. En Settings → Pages, seleccionar GitHub Actions como fuente de publicación.
+
+URL: https://jburbanof.github.io/nexo_diario_angular/
+
+La navegación utiliza rutas con hash (por ejemplo, `/#/noticias`) para permitir recargar y compartir enlaces en GitHub Pages. Para verificar la compilación de publicación localmente, ejecutar `npm run build -- --base-href /nexo_diario_angular/`. Los archivos publicados quedan en `dist/nexo-diario/browser`.
