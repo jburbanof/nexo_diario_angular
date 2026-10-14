@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "categoria": "Tecnología",
+    "titulo": "Ciudades inteligentes: tecnología al servicio de las personas",
+    "descripcion": "Una mirada a cómo los datos, la conectividad y el diseño urbano pueden mejorar la vida cotidiana.",
+    "fecha": "15 de septiembre de 2026",
+    "imagen": "assets/tecnologia.svg",
+    "contenido": "Las ciudades inteligentes integran datos, conectividad e infraestructura digital para responder de manera más eficiente a las necesidades de sus habitantes. Sensores, sistemas de movilidad conectada y plataformas de información permiten tomar decisiones basadas en evidencia. Sin embargo, la tecnología solo genera valor cuando se diseña alrededor de las personas, protege la privacidad y facilita el acceso equitativo a los servicios urbanos."
+  },
+  {
+    "id": 2,
+    "categoria": "Educación",
+    "titulo": "Aprendizaje híbrido y nuevas formas de estudiar",
+    "descripcion": "La combinación de espacios presenciales y digitales está transformando la experiencia educativa.",
+    "fecha": "18 de septiembre de 2026",
+    "imagen": "assets/educacion.svg",
+    "contenido": "El aprendizaje híbrido combina actividades presenciales con recursos digitales. Esta modalidad permite que los estudiantes administren parte de su ritmo de trabajo, revisen materiales en línea y aprovechen el encuentro presencial para resolver dudas, debatir y desarrollar ejercicios colaborativos. El reto está en mantener una experiencia coherente, accesible y con objetivos claros en ambos entornos."
+  },
+  {
+    "id": 3,
+    "categoria": "Turismo",
+    "titulo": "Rutas de naturaleza para descubrir Colombia",
+    "descripcion": "Destinos de montaña, páramo y bosque que promueven una relación responsable con el territorio.",
+    "fecha": "20 de septiembre de 2026",
+    "imagen": "assets/turismo.svg",
+    "contenido": "Colombia cuenta con una diversidad de ecosistemas que favorece experiencias de turismo de naturaleza. Las rutas de senderismo, los recorridos comunitarios y la observación de fauna son oportunidades para conocer el territorio y apoyar economías locales. Para que estas actividades sean sostenibles, es importante respetar los límites de carga, seguir las recomendaciones ambientales y preferir operadores responsables."
+  },
+  {
+    "id": 4,
+    "categoria": "Negocios",
+    "titulo": "Comercio electrónico local: oportunidades para pequeños negocios",
+    "descripcion": "Herramientas digitales sencillas permiten ampliar el alcance de marcas y emprendimientos locales.",
+    "fecha": "22 de septiembre de 2026",
+    "imagen": "assets/negocios.svg",
+    "contenido": "El comercio electrónico ya no es exclusivo de grandes empresas. Catálogos digitales, pagos en línea y canales de atención integrados permiten que pequeños negocios lleguen a nuevos públicos. La clave está en ofrecer información clara, procesos simples de compra y una experiencia coherente entre redes sociales, mensajería y sitio web."
+  },
+  {
+    "id": 5,
+    "categoria": "Tecnología",
+    "titulo": "Ciberseguridad cotidiana: hábitos que reducen riesgos",
+    "descripcion": "Pequeñas prácticas digitales ayudan a proteger cuentas, dispositivos e información personal.",
+    "fecha": "25 de septiembre de 2026",
+    "imagen": "assets/ciberseguridad.svg",
+    "contenido": "La seguridad digital también depende de hábitos cotidianos. Usar contraseñas únicas, activar la autenticación multifactor, mantener los equipos actualizados y desconfiar de enlaces inesperados reduce la exposición a incidentes comunes. Estas acciones no eliminan todos los riesgos, pero crean una primera barrera efectiva frente a ataques de ingeniería social y accesos no autorizados."
+  },
+  {
+    "id": 6,
+    "categoria": "Negocios",
+    "titulo": "Economía creativa y transformación digital",
+    "descripcion": "La tecnología abre nuevas formas de producir, distribuir y monetizar contenidos creativos.",
+    "fecha": "27 de septiembre de 2026",
+    "imagen": "assets/creativa.svg",
+    "contenido": "La economía creativa reúne actividades donde el conocimiento, el diseño y la cultura son parte central del valor. Las plataformas digitales permiten distribuir contenidos, coordinar equipos remotos y experimentar con nuevos modelos de negocio. El desafío consiste en combinar creatividad con sostenibilidad financiera, protección de derechos y una lectura constante de las necesidades del público."
+  }
+]
